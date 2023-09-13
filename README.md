@@ -1,3 +1,4 @@
 # Rithyam Pathak | Competitive Programmer
 
-## Hello Everyone, I am Rithyam and this is the repository for my portfolio website..!!
+[Link to Portfolio](https://rithyam.github.io/portfolio/)
+Hello Everyone, I am Rithyam and this is the repository for my portfolio website..!!
