@@ -1,3 +1,3 @@
 # Rithyam Pathak | Competitive Programmer
 
-## Hello Everyone, I am Vinayak and this is the repository for my portfolio website..!!
+## Hello Everyone, I am Rithyam and this is the repository for my portfolio website..!!
